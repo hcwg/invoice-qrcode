@@ -1,5 +1,9 @@
 # invoice-qrcode
 
+Frontend App help you scan QRcode on invoice
+
+Demo: https://hcwg.github.io/invoice-qrcode/
+
 ## Project setup
 ```
 yarn install
